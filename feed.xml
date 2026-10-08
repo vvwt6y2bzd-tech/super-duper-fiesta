@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>Personal Podcasts</title>
+  <description>AI Generated</description>
+  <language>en</language>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://raw.githubusercontent.com/vvwt6y2bzd-tech/super-duper-fiesta/main/feed.xml" rel="self" type="application/rss+xml" />
+  <itunes:image href="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/cover.png" />
+  <image>
+    <url>https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/cover.png</url>
+    <title>Personal Podcasts</title>
+    <link>https://muse.ai/podcasts/feed/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6</link>
+  </image>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 8, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-f7947ebc-8e1b-4107-830b-08a89c185008.mp3" length="4214629" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-f7947ebc-8e1b-4107-830b-08a89c185008</guid>
+    <pubDate>Thu, 08 Oct 2026 10:33:01 +0000</pubDate>
+    <itunes:duration>526</itunes:duration>
+  </item>
+<item>
+    <title>Daily Tech News and Morning Headlines - October 7, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-1a3abaab-cfc0-41a6-957a-d2ebbba3a84f.mp3" length="3897445" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1a3abaab-cfc0-41a6-957a-d2ebbba3a84f</guid>
+    <pubDate>Wed, 07 Oct 2026 10:32:29 +0000</pubDate>
+    <itunes:duration>487</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 6, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-836c8c87-9610-445e-b529-757bb9665483.mp3" length="3848293" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-836c8c87-9610-445e-b529-757bb9665483</guid>
+    <pubDate>Tue, 06 Oct 2026 10:37:40 +0000</pubDate>
+    <itunes:duration>481</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 5, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-d85437e0-d115-4f32-8e0e-2a892f268a4f.mp3" length="4167589" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-d85437e0-d115-4f32-8e0e-2a892f268a4f</guid>
+    <pubDate>Mon, 05 Oct 2026 10:33:34 +0000</pubDate>
+    <itunes:duration>520</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 4, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-6d3103eb-49fa-466c-9241-f2b6574edba4.mp3" length="3974053" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-6d3103eb-49fa-466c-9241-f2b6574edba4</guid>
+    <pubDate>Sun, 04 Oct 2026 10:34:18 +0000</pubDate>
+    <itunes:duration>496</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 3, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-480aa272-66e9-4e41-8046-bbecb1ed1ba9.mp3" length="4252645" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-480aa272-66e9-4e41-8046-bbecb1ed1ba9</guid>
+    <pubDate>Sat, 03 Oct 2026 10:36:36 +0000</pubDate>
+    <itunes:duration>531</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 2, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-a97ea459-13ee-40c6-831c-e845abbc6c0a.mp3" length="4175077" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-a97ea459-13ee-40c6-831c-e845abbc6c0a</guid>
+    <pubDate>Fri, 02 Oct 2026 10:35:56 +0000</pubDate>
+    <itunes:duration>521</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - October 1, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-a5a5c8b7-c705-46d3-b6bc-acae3312d984.mp3" length="4198501" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-a5a5c8b7-c705-46d3-b6bc-acae3312d984</guid>
+    <pubDate>Thu, 01 Oct 2026 10:35:58 +0000</pubDate>
+    <itunes:duration>524</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 30, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-45d341cc-31e7-46e9-a9bd-67da7fbe9233.mp3" length="4277605" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-45d341cc-31e7-46e9-a9bd-67da7fbe9233</guid>
+    <pubDate>Wed, 30 Sep 2026 10:38:22 +0000</pubDate>
+    <itunes:duration>534</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 29, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-4a156049-c8bf-424e-8301-ee8a8e2b4cfd.mp3" length="4506085" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4a156049-c8bf-424e-8301-ee8a8e2b4cfd</guid>
+    <pubDate>Tue, 29 Sep 2026 10:38:07 +0000</pubDate>
+    <itunes:duration>563</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 28, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-e7b1bc76-efef-4390-86f2-2ea5c92935ab.mp3" length="3649573" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-e7b1bc76-efef-4390-86f2-2ea5c92935ab</guid>
+    <pubDate>Mon, 28 Sep 2026 10:33:47 +0000</pubDate>
+    <itunes:duration>456</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 27, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-02f0bb2a-5eee-47bb-a202-e0bc8aa08986.mp3" length="3900709" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-02f0bb2a-5eee-47bb-a202-e0bc8aa08986</guid>
+    <pubDate>Sun, 27 Sep 2026 10:33:07 +0000</pubDate>
+    <itunes:duration>487</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 26, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-ca9c70d8-ff5c-490c-b4b9-23a03c0af201.mp3" length="4108453" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ca9c70d8-ff5c-490c-b4b9-23a03c0af201</guid>
+    <pubDate>Sat, 26 Sep 2026 10:36:17 +0000</pubDate>
+    <itunes:duration>513</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 25, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-a8cca322-68d6-4bac-bcea-308ef20b592d.mp3" length="4117477" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-a8cca322-68d6-4bac-bcea-308ef20b592d</guid>
+    <pubDate>Fri, 25 Sep 2026 10:44:47 +0000</pubDate>
+    <itunes:duration>514</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 24, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-083d784d-3b14-496d-bc76-fbfd90b504b2.mp3" length="3807205" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-083d784d-3b14-496d-bc76-fbfd90b504b2</guid>
+    <pubDate>Thu, 24 Sep 2026 10:35:49 +0000</pubDate>
+    <itunes:duration>475</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 23, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-376eee7d-2ee3-4998-a710-bc678c57bbb5.mp3" length="4079461" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-376eee7d-2ee3-4998-a710-bc678c57bbb5</guid>
+    <pubDate>Wed, 23 Sep 2026 10:37:56 +0000</pubDate>
+    <itunes:duration>509</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 22, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-98e18abe-2b2b-4cf1-9f96-b302a2b39e49.mp3" length="4483813" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-98e18abe-2b2b-4cf1-9f96-b302a2b39e49</guid>
+    <pubDate>Tue, 22 Sep 2026 10:42:19 +0000</pubDate>
+    <itunes:duration>560</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 21, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-cce85ce2-06f3-4470-bf0f-48f729824564.mp3" length="4637413" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-cce85ce2-06f3-4470-bf0f-48f729824564</guid>
+    <pubDate>Mon, 21 Sep 2026 10:45:43 +0000</pubDate>
+    <itunes:duration>579</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 20, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-1db06f61-592a-4d51-9352-135dbd61066e.mp3" length="4861285" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1db06f61-592a-4d51-9352-135dbd61066e</guid>
+    <pubDate>Sun, 20 Sep 2026 10:37:54 +0000</pubDate>
+    <itunes:duration>607</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 19, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-e2f8af76-7745-4249-a423-ab7ecc7adc97.mp3" length="3706021" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-e2f8af76-7745-4249-a423-ab7ecc7adc97</guid>
+    <pubDate>Sat, 19 Sep 2026 10:36:09 +0000</pubDate>
+    <itunes:duration>463</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 18, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-ec9308fb-5a0e-4ba1-9460-18be791d3a17.mp3" length="4021093" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ec9308fb-5a0e-4ba1-9460-18be791d3a17</guid>
+    <pubDate>Fri, 18 Sep 2026 10:37:03 +0000</pubDate>
+    <itunes:duration>502</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 17, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-0239b5b9-a857-483e-916e-9a7cf4e3fcc8.mp3" length="3820453" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-0239b5b9-a857-483e-916e-9a7cf4e3fcc8</guid>
+    <pubDate>Thu, 17 Sep 2026 11:20:35 +0000</pubDate>
+    <itunes:duration>477</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 17, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-c4b971e7-2b40-46ae-9480-3b70cd1573a5.mp3" length="3820453" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-c4b971e7-2b40-46ae-9480-3b70cd1573a5</guid>
+    <pubDate>Thu, 17 Sep 2026 10:37:23 +0000</pubDate>
+    <itunes:duration>477</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 16, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-dc76879c-b2e0-42cc-aea5-b420ba1c9b64.mp3" length="3997093" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-dc76879c-b2e0-42cc-aea5-b420ba1c9b64</guid>
+    <pubDate>Wed, 16 Sep 2026 10:37:57 +0000</pubDate>
+    <itunes:duration>499</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 15, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-9a635461-0fb2-47a1-8102-a9641f0d0603.mp3" length="5875045" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9a635461-0fb2-47a1-8102-a9641f0d0603</guid>
+    <pubDate>Tue, 15 Sep 2026 10:35:09 +0000</pubDate>
+    <itunes:duration>734</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 14, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-cbc54213-8488-465a-8662-d08507d863ef.mp3" length="3951589" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-cbc54213-8488-465a-8662-d08507d863ef</guid>
+    <pubDate>Mon, 14 Sep 2026 10:37:39 +0000</pubDate>
+    <itunes:duration>493</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 13, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-0af05968-f4cc-4465-9864-d920874b3fe3.mp3" length="2989285" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-0af05968-f4cc-4465-9864-d920874b3fe3</guid>
+    <pubDate>Sun, 13 Sep 2026 10:34:48 +0000</pubDate>
+    <itunes:duration>373</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 12, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-fad8883a-b077-4444-aadb-10fd507f3ec4.mp3" length="4020517" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-fad8883a-b077-4444-aadb-10fd507f3ec4</guid>
+    <pubDate>Sat, 12 Sep 2026 13:04:13 +0000</pubDate>
+    <itunes:duration>502</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 11, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-9a70cda8-585b-440e-9720-55d94b56686d.mp3" length="4758181" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9a70cda8-585b-440e-9720-55d94b56686d</guid>
+    <pubDate>Fri, 11 Sep 2026 11:52:27 +0000</pubDate>
+    <itunes:duration>594</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 11, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-0bab2bd2-b805-4995-a22c-5e669e84fd73.mp3" length="6219493" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-0bab2bd2-b805-4995-a22c-5e669e84fd73</guid>
+    <pubDate>Fri, 11 Sep 2026 10:39:44 +0000</pubDate>
+    <itunes:duration>777</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 11, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-18bd337a-f315-4376-a431-7b37367a5c53.mp3" length="6219493" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-18bd337a-f315-4376-a431-7b37367a5c53</guid>
+    <pubDate>Fri, 11 Sep 2026 10:38:41 +0000</pubDate>
+    <itunes:duration>777</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 10, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+Chapters
+(00:00:00) Intro
+(00:00:07) Headlines
+(00:02:05) National &amp; World
+(00:04:05) Bucks County
+(00:05:30) Tech
+(00:07:20) Sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-7ac730f7-dd9f-4f32-89e9-6909a735eea7.mp3" length="3574309" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-7ac730f7-dd9f-4f32-89e9-6909a735eea7</guid>
+    <pubDate>Thu, 10 Sep 2026 12:13:00 +0000</pubDate>
+    <itunes:duration>446</itunes:duration>
+  </item>
+  <item>
+    <title>Apple Event Bonus: iPhone Duo, iPhone 18 Pro, and More - September 9, 2026</title>
+    <description>Bonus episode: Alex and Jordan recap everything Apple announced at today's Surprise and Shine event, including the foldable iPhone Duo.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-f092d02c-c3f0-4c7e-b90a-4b58a1f9035f.mp3" length="2839525" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-f092d02c-c3f0-4c7e-b90a-4b58a1f9035f</guid>
+    <pubDate>Wed, 09 Sep 2026 21:31:30 +0000</pubDate>
+    <itunes:duration>354</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 9, 2026 (Final Mix)</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-c442bf74-2e11-4ccf-b122-2f52451d53fc.mp3" length="3858661" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-c442bf74-2e11-4ccf-b122-2f52451d53fc</guid>
+    <pubDate>Wed, 09 Sep 2026 12:24:58 +0000</pubDate>
+    <itunes:duration>482</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 9, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-34f2a1a8-3893-4dd4-b8d7-18706962da49.mp3" length="3903973" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-34f2a1a8-3893-4dd4-b8d7-18706962da49</guid>
+    <pubDate>Wed, 09 Sep 2026 12:20:07 +0000</pubDate>
+    <itunes:duration>487</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 9, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-a92b9652-6ceb-4b1d-9f64-c65157f5abb4.mp3" length="3856357" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-a92b9652-6ceb-4b1d-9f64-c65157f5abb4</guid>
+    <pubDate>Wed, 09 Sep 2026 12:15:02 +0000</pubDate>
+    <itunes:duration>482</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines - September 9, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-ed19e027-2cce-4564-b34a-5365107dc7cc.mp3" length="3729445" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ed19e027-2cce-4564-b34a-5365107dc7cc</guid>
+    <pubDate>Wed, 09 Sep 2026 11:52:44 +0000</pubDate>
+    <itunes:duration>466</itunes:duration>
+  </item>
+  <item>
+    <title>Daily Tech News and Morning Headlines – September 9, 2026</title>
+    <description>Today's top tech stories and morning headlines, with Alex and Jordan.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6/ep-7ca4902d-4f2d-4a52-9a26-e484c91097a4.mp3" length="2562853" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-7ca4902d-4f2d-4a52-9a26-e484c91097a4</guid>
+    <pubDate>Wed, 09 Sep 2026 04:06:26 +0000</pubDate>
+    <itunes:duration>320</itunes:duration>
+  </item>
+  <lastBuildDate>Thu, 08 Oct 2026 12:02:34 +0000</lastBuildDate><ttl>60</ttl></channel>
+</rss>
