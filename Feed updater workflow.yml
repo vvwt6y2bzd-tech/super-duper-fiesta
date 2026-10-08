@@ -4,7 +4,7 @@ name: Update reversed podcast feed
 # every morning after the new episode publishes, plus whenever this
 # file itself is changed. Commits feed.xml back to the repo, which is
 # served to podcast players at:
-# https://raw.githubusercontent.com/vvwt6y2bzd-tech/super-duper-succotash/main/feed.xml
+# https://raw.githubusercontent.com/vvwt6y2bzd-tech/super-duper-fiesta/main/feed.xml
 
 on:
   push:
@@ -33,7 +33,7 @@ jobs:
           from email.utils import format_datetime
 
           PLATFORM_FEED = "https://muse.ai/podcasts/feed/394970670373556/4bc27f9b-3640-5cc5-9ca9-4f82d93ce1b6"
-          SELF_URL = "https://raw.githubusercontent.com/vvwt6y2bzd-tech/super-duper-succotash/main/feed.xml"
+          SELF_URL = "https://raw.githubusercontent.com/vvwt6y2bzd-tech/super-duper-fiesta/main/feed.xml"
           ATOM_NS = "http://www.w3.org/2005/Atom"
           ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 
